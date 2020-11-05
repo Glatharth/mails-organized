@@ -1,9 +1,0 @@
-{
-  "name": "listar_emails",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "fs": "^0.0.1-security"
-  }
-}
